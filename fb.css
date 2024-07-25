@@ -1,0 +1,180 @@
+.header{
+    background: #3b5998;
+    width:100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 28px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    width: 50%;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin-left:170px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login-label{
+    color:white;
+    font-size: 15px;
+}
+.login-controls{
+    margin-left:115px;
+}
+.forgotten{
+    font-size: 11px;
+    text-decoration: none;
+    color:#9cb4d8;
+}
+.sub-btn{
+    color: #fff;
+    height: 20px;
+    background-color: #4267b2;
+    border: 1px solid #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: green;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 40px;
+}
+.right-section{
+    width: 39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#d2dbe4);
+    width:100%;
+    height:650px;
+}
+.image{
+    width: 581px;
+    height: 350px;
+}
+.name{
+    height: 28px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.email_password{
+    margin-top: 7px;
+    height: 28px;
+    width:413px ;
+    font-size: 16;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.select_element{
+    height: 30px;
+    width: 65px;
+    padding-left: 3px;
+    border-radius:5px ;
+}
+.birthday_gender{
+    color:grey;
+    font-size: 22px;
+}
+.fa{
+    margin-left: 12px;
+    font-size: 19px;
+    color: rgb(81, 88, 96);
+}
+.policy{
+    color: blue;
+    text-decoration: none;
+}
+.terms_content{
+    color: rgb(112, 108, 108);
+    font-size: 14px;
+}
+.signup{
+    margin-top: 12px;
+    width: 230px;
+    height: 40px;
+    font-size: 20px;
+    background: rgb(31 173 31);
+    color: white;
+    border:1px solid rgb(112, 108, 108);
+    border-radius: 7px;
+    font-weight: bold;
+}
+.celebrity_page{
+    color: blue;
+    text-decoration: none;
+}
+.celebrity_content{
+    color: rgb(112, 108, 108);
+    margin-top: 40px;
+}
+.footer{
+    background: #fff;
+    width: 100%;
+    height: 200px;
+}
+.languages{
+    float: left;
+    margin-top: 30px;
+    text-decoration: none;
+    padding-right: 17px;
+}
+.languages:hover{
+    color: black;
+}
+.language_div{
+    margin-top: 56px;
+    margin-left: 190px;
+}
+.plus_btn{
+    margin-top: 10px;
+    width: 35px;
+    border: 1px solid rgb(174, 169, 169);
+    border-radius: 3px;
+    height: 8px;
+    background: whitesmoke;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(131, 127, 127);
+    padding-bottom: 22px;
+}
+.plus_btn:hover{
+    background: rgb(198, 198, 198);
+}
+.all_options{
+    float: left;
+    text-decoration: none;
+    padding-right: 32px;
+    padding-top: 9px;
+}
+.all_options:hover{
+    color:black;
+}
+.option_divison{
+    margin-top: 10px;
+    margin-left: 189px;
+}
+.facebook_tag{
+    float: left;
+    margin-left: 187px;
+    margin-top: 37px;
+    font-size: 13px;
+    color: rgb(108, 106, 106);
+    font-weight: 600;
+}
